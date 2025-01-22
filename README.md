@@ -1,1 +1,2 @@
 # Pharmacovigilance-and-Drug-Safety-Insights
+This project focuses on analyzing a Drug Safety and Pharmacovigilance dataset to identify high-risk patient groups based on demographic and clinical characteristics. The dataset includes patient information such as age, sex, blood pressure (BP), cholesterol levels, sodium-to-potassium ratio (Na_to_K), and prescribed drugs. By leveraging exploratory data analysis (EDA) and visualizations, the project uncovers patterns and correlations, enabling data-driven insights into drug safety.
